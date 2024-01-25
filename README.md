@@ -1,7 +1,13 @@
-# MYSQL CONCEPTS AND ITS EXAMPLES
+# MySQL Basic Documentation Notes
+Name: Abdullah Numan Shakil</br>
+Dept of Computer Science And Engineering</br>
+University of Rajshahi.</br>
+This repository contains basic documentation notes for MySQL, a popular open-source relational database management system.
+
+## Purpose
+The purpose of this repository is to provide a comprehensive guide to MySQL for beginners. It covers the basic concepts and operations involved in using MySQL, including installation, database creation, table creation, data insertion, querying, updating, and deletion. Whether you are new to MySQL or need a refresher, this documentation will help you understand and navigate the fundamentals of working with MySQL.
 
 ## Table of Contents
-
 1. [Introduction to MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/introduction.md)
 2. [Installation guide for MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/installation.md)
 3. [Connecting to MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/connecting%20to%20mysql.md)
@@ -15,11 +21,9 @@
 11. [Updating data in MySQL tables](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/updating%20data.md)
 12. [Deleting data from MySQL tables](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/delete.md)
 
-## Getting Started
+## For more practice follow the following Notes</br>
 
-description
-
-use sample database like employees database in mysql
+### Use sample database like employees database in mysql.
 
 ## Data Manipulation
 
