@@ -6,7 +6,7 @@
 2. [Installation guide for MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/installation.md)
 3. [Connecting to MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/connecting%20to%20mysql.md)
 4. [Creating a database in MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/database%20creating.md)
-5. [Dropping a database in MySQL]()
+5. [Dropping a database in MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/database%20dropping.md)
 6. [Creating tables in MySQL]()
 7. [Altering tables in MySQL]()
 8. [Dropping tables in MySQL]()
