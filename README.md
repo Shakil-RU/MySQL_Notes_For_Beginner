@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Introduction to MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/introduction.md)
-2. [Installation guide for MySQL]()
+2. [Installation guide for MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/installation.md)
 3. [Connecting to MySQL]()
 4. [Creating a database in MySQL]()
 5. [Dropping a database in MySQL]()
