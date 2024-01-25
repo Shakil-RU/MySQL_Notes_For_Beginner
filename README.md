@@ -13,7 +13,7 @@
 9. [Inserting data into MySQL tables](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/insert%20data.md)
 10. [Querying data from MySQL tables](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/query.md)
 11. [Updating data in MySQL tables](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/updating%20data.md)
-12. [Deleting data from MySQL tables]()
+12. [Deleting data from MySQL tables](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/delete.md)
 
 ## Getting Started
 
