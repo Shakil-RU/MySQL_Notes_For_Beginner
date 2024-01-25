@@ -9,7 +9,7 @@
 5. [Dropping a database in MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/database%20dropping.md)
 6. [Creating tables in MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/creating%20table.md)
 7. [Altering tables in MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/alter%20table.md)
-8. [Dropping tables in MySQL]()
+8. [Dropping tables in MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/drop%20table.md)
 9. [Inserting data into MySQL tables]()
 10. [Querying data from MySQL tables]()
 11. [Updating data in MySQL tables]()
