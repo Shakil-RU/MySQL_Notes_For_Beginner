@@ -1,11 +1,13 @@
 # MySQL Basic Documentation Notes
-Name: Abdullah Numan Shakil</br>
-Dept of Computer Science And Engineering</br>
-University of Rajshahi.</br>
-This repository contains basic documentation notes for MySQL, a popular open-source relational database management system.
+    Name: Abdullah Numan Shakil
+    Dept of Computer Science And Engineering
+    University of Rajshahi.
+    This repository contains basic documentation notes for MySQL, a popular open-source relational database management system.
 
 ## Purpose
-The purpose of this repository is to provide a comprehensive guide to MySQL for beginners. It covers the basic concepts and operations involved in using MySQL, including installation, database creation, table creation, data insertion, querying, updating, and deletion. Whether you are new to MySQL or need a refresher, this documentation will help you understand and navigate the fundamentals of working with MySQL.
+The purpose of this repository is to provide a comprehensive guide to MySQL for beginners. It covers the basic concepts and operations involved in using MySQL, including 
+installation, database creation, table creation, data insertion, querying, updating, and deletion. Whether you are new to MySQL or need a refresher, this documentation will help 
+you understand and navigate the fundamentals of working with MySQL.
 
 ## Table of Contents
 1. [Introduction to MySQL](https://github.com/Shakil-RU/Mysql_Notes_For_Beginner/blob/main/docs%20file/introduction.md)
